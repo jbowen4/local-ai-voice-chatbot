@@ -1,3 +1,7 @@
+# -----------------------------------------------------------
+# NOTE: This code does not work. It was used to help learn and test the LiveKit API. The main.py file is the one that actually works.
+# -----------------------------------------------------------
+
 import asyncio # Enables asynchronous programming in Python (EDIT: No it doesn't, you can still use await without asyncio imported)
 
 from dotenv import load_dotenv
